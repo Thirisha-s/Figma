@@ -28,14 +28,30 @@ Validate the HTML and CSS code.
 
 Publish the website in the given URL.
 
-## DESIGN TOOL:
-Figma
-```python
+### CODE:
+```
+/* HOME PAGE */
+position: relative;
+width: 360px;
+height: 640px;
+background: #FF0404;
 
+/* Login page */
+position: relative;
+width: 360px;
+height: 640px;
+background: #FEE503;
+
+7* SEC page */
+position: relative;
+width: 360px;
+height: 640px;
+background: #093FFF;
+```
 ## OUTPUT:
-![phone 1](https://github.com/Thirisha-s/Figma/assets/120380280/7a07dc86-e181-4705-bf78-171f9873705b)
-![phone 2](https://github.com/Thirisha-s/Figma/assets/120380280/70a32bb1-1612-4a89-a1ec-aadf62e31c44)
-![phone 3](https://github.com/Thirisha-s/Figma/assets/120380280/19b56a5b-da79-4fef-b4b9-ed3e0af66a25)
+![phone 1](https://github.com/Thirisha-s/Figma/assets/120380280/418f78a6-b2f2-4ff9-843c-e4ea55e609ff)
+![phone 2](https://github.com/Thirisha-s/Figma/assets/120380280/213f7086-4060-4ca9-a4fe-4ba7cc7a21fd)
+![phone 3](https://github.com/Thirisha-s/Figma/assets/120380280/5bcedce3-eed6-48ee-8ad8-178f6398828b)
 
 
 ## RESULT:
